@@ -30,15 +30,13 @@ A modern and responsive **Currency Converter** web application that provides rea
 
 ## 🖼️ Screenshots
 
-### Desktop View
-<div align="center">
-  <img src="https://via.placeholder.com/800x500/af4d98/ffffff?text=Currency+Converter+Desktop+View" alt="Desktop Screenshot" width="700"/>
-</div>
+### 🖥️ Desktop View
+![Currency Converter Desktop](https://raw.githubusercontent.com/Panchal-dev/currency-converter/main/screenshots/desktop.png)
 
-### Application Interface
-<div align="center">
-  <img src="https://via.placeholder.com/400x600/f4e4ba/000000?text=Currency+Converter+UI" alt="App Interface" width="350"/>
-</div>
+### 📱 Application Interface
+![Currency Converter Interface](https://raw.githubusercontent.com/Panchal-dev/currency-converter/main/screenshots/interface.png)
+
+> 💡 **Live Preview:** Visit [currency-converter-dev7.netlify.app](https://currency-converter-dev7.netlify.app/) to see it in action!
 
 ---
 
